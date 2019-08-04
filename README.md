@@ -1,4 +1,4 @@
-This project was created to go along with ....
+This project was created to go along with [this article](https://dev.to/matsilva/boost-the-ux-of-your-react-app-with-hash-based-content-caching-2h8g)
 
 ## run the project
 
